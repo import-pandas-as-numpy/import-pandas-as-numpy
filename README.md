@@ -3,7 +3,7 @@ Hey there! I am a cybersecurity student and researcher with a passion for open s
 My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/Ida, as well as day to day decisionmaking on development paths for Project DRAGONFLY; but I can often be found coding Python scripts for cybersecurity applications as well. 
 
 
-### Tools
+### Stickers
 ![PyPI](https://img.shields.io/badge/pypi-%231454C.svg?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kali](https://img.shields.io/badge/kali-%231454C.svg?style=for-the-badge&logo=kalilinux&logoColor=white&color=557C94)
