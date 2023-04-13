@@ -1,6 +1,6 @@
-## Project DRAGONFLY Team Lead
+## Mantis Security Team Lead
 Hey there! I am a cybersecurity student and researcher with a passion for open source trust and security. I direct operations of a volunteer malware analysis team focused on early detection, documentation, reversal, and reporting of malicious packages and software distributed primarily through open source venues such as GitHub and PyPI. 
-My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/Ida, as well as day to day decisionmaking on development paths for Project DRAGONFLY; but I can often be found coding Python scripts for cybersecurity applications as well. 
+My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/Ida, as well as day to day decisionmaking on development paths for Mantis Security; but I can often be found coding Python scripts for cybersecurity applications as well. 
 
 
 ### Stickers
@@ -17,3 +17,4 @@ My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/
 ### Closed-Source Projects
 * Project DRAGONFLY - A network of threat analysis and mitigation tools aimed at detecting, mapping, fingerprinting, and reversing malicious packages on the Python Package Index with an integrated C2 architecture. 
 * SEEK/STRIKE - A narrow-scoped series of immediate action reversal tools designed for ease-of-use, novice user recovery from known malicious packages. 
+* Mantis Deobfuscator - An all-in-one Deobfuscation tool levying a robust set of yara rules to rapidly identify and deobfuscate common Python obfuscation schema. 
