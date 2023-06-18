@@ -17,4 +17,4 @@ My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/
 ### Closed-Source Projects
 * Project DRAGONFLY - A network of threat analysis and mitigation tools aimed at detecting, mapping, fingerprinting, and reversing malicious packages on the Python Package Index with an integrated C2 architecture. 
 * SEEK/STRIKE - A narrow-scoped series of immediate action reversal tools designed for ease-of-use, novice user recovery from known malicious packages. 
-* Mantis Deobfuscator - An all-in-one deobfuscation tool levying a robust set of yara rules to rapidly identify and deobfuscate common Python obfuscation schema. 
+* Vipy Deobfuscator - An all-in-one deobfuscation tool levying a robust set of yara rules to rapidly identify and deobfuscate common Python obfuscation schema. 
