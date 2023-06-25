@@ -1,6 +1,7 @@
 ## Vipyr Security
 Hey there! I am a cybersecurity student and researcher with a passion for open source trust and security. I direct operations of an all-volunteer malware analysis organization focused on early detection, documentation, reversal, and reporting of malicious packages and software distributed primarily through open source venues such as GitHub and PyPI. 
-My principle focus is on reverse engineering utilizing tools such as GDB/Ghidra/Ida, as well as day to day decisionmaking on development paths for Vipyr Security; but I can often be found coding Python scripts for cybersecurity applications as well. 
+
+My principle focus is on reverse engineering utilizing tools such as Ghidra/Ida, as well as day to day decisionmaking on development paths for Vipyr Security; but I can often be found coding Python scripts for cybersecurity applications as well. 
 
 
 ### Stickers
